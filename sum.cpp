@@ -15,4 +15,7 @@ int main(){
     cin >> number2;
     total=number1+number2;
     cout << "The sum of your numbers is " << total;
+
+    number1=50;
+    number2=100;
 }
