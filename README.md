@@ -1,5 +1,3 @@
-# L2P1
-
 Program - Values used.	   Expected result before running	  Actual output	  Match or fix
 sum.cpp — assigned values	50 and 100 --> 150.             	150         	Match
 sum.cpp — changed values	66 and 1 --> 67.     	            67	            Match
